@@ -8,6 +8,6 @@ Run various models listed
 
 - Prefer ollama run llama3.3
 
-##Exercise
+## Exercise
 1. Run and have conversation with llama 3.3 model
 2. Explore various other models listed
